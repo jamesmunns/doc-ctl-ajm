@@ -1,5 +1,11 @@
 # James' projects
 
+## What is this
+
+This is a listing of all of my personal projects. See the [doc-ctl] repo for how this works
+
+[doc-ctl]: https://github.com/jamesmunns/doc-ctl
+
 ## Project ID Allocations
 
 Note: I'm starting at `00100`, because I have older projects that existed before I came up with this doc control idea, and I might go back some day and reindex that.
